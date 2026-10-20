@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Hoja de Trabajo 4/1.0.0": {
+        "runtime": {
+          "Hoja de Trabajo 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hoja de Trabajo 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
